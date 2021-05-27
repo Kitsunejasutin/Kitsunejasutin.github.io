@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Justine Ryan"
-title_right   : "De Guia" # default: ""
+title_right   : " De Guia" # default: ""
 description   : "Home"
 keywords      : "Portfolio, Justine"
 url           : https://kitsunejasutin.github.io// # site url
