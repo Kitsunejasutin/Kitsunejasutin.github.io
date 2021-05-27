@@ -17,6 +17,8 @@ This setion of my portfolio is where I display and share the Programming achieve
     -This compiles my activities in my major subject Web Development(PHP Activities).
 
 **The following links contains my Android Development Projects**
+As the pandemic started I am wondering If I can do anything to improve my programming skills and that's why I found out Android Development. So basically it is where you create a specific system for your Android Device. Here we you can build, improve and give the people so called "Community" of the specific Phone model and receive feedbacks from them.
+
 - [Superior](https://i.ibb.co/nrZNz7J/image.png)
     -This is my first Android ROM I ever booted on my device, this is where I started learning and improving my knowledge to the Android World.
 
